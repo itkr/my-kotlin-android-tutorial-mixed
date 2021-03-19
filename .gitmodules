@@ -1,0 +1,6 @@
+[submodule "HighandLow"]
+	path = HighandLow
+	url = git@github.com:itkr/sample-HighandLow.git
+[submodule "OutofBusinessCards"]
+	path = OutofBusinessCards
+	url = git@github.com:itkr/sample-OutofBusinessCards
